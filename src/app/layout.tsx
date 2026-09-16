@@ -3,7 +3,7 @@ import { Darker_Grotesque, IBM_Plex_Mono, Inter } from "next/font/google";
 import {Providers} from "@/components/providers";
 import { ThemeProvider } from "@/components/ui/theme-provider";
 import "./globals.css";
-import { Authenticated } from "convex/react";
+
 
 const inter = Inter({
   variable: "--font-inter",
